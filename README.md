@@ -8,7 +8,7 @@ Track the adoption and influence of AI across different sectors.
 Visualize trends, patterns, and outcomes resulting from AI integration.
 Enable stakeholders to make informed, data-backed decisions.
 
-<img src="AI_Impact_dash.png"  width=""/> &nbsp;
+<img src="AI_impact_Dash.png"  width=""/> &nbsp;
 
 # The Impact of Artificial Intelligence
 🌍 Setting the Scene
