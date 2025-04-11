@@ -34,3 +34,12 @@ Automation risk varies greatly between sectors, raising important questions abou
 # Data Story
 
 The AI Impact Dashboard visualizes how Artificial Intelligence is transforming industries through data. It highlights sector-wise adoption, investment trends, and societal effects like job automation and economic growth. Key insights reveal that finance and healthcare lead in AI implementation, while regions vary widely in readiness and impact. This dashboard empowers stakeholders to understand and navigate the evolving AI landscape with clarity and confidence.
+
+1. AI adoption is strongest in tech-advanced economies, with South Korea and  USA leading globally
+<img src="strong_tech_country.png"  width=""/> &nbsp;
+
+2. The automotive and media industries lead in AI integration.
+<img src="lead_ai_integration.png"  width=""/> &nbsp;
+
+3.Industries like healthcare show potential for AI-human synergy, rather than replacement
+<img src="healthcare.png"  width=""/> &nbsp;
