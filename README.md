@@ -8,6 +8,8 @@ Track the adoption and influence of AI across different sectors.
 Visualize trends, patterns, and outcomes resulting from AI integration.
 Enable stakeholders to make informed, data-backed decisions.
 
+<img src="AI_Impact_dash.png"  width=""/> &nbsp;
+
 # The Impact of Artificial Intelligence
 🌍 Setting the Scene
 Artificial Intelligence (AI) is no longer a futuristic concept—it's transforming industries in real time. From optimizing healthcare systems to automating manufacturing processes, AI is reshaping the way we live, work, and innovate.
