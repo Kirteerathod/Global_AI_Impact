@@ -9,8 +9,7 @@ Visualize trends, patterns, and outcomes resulting from AI integration.
 Enable stakeholders to make informed, data-backed decisions.
 
 # Tableau Public Link
-[Link](https://public.tableau.com/app/profile/kirtee.rathod/viz/AI_IMPACT/Dashboard1)
-
+[https://public.tableau.com/app/profile/kirtee.rathod/viz/AI_IMPACT/Story1]
 <img src="AI_impact_Dash.png"  width=""/> &nbsp;
 
 # The Impact of Artificial Intelligence
